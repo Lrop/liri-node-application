@@ -1,182 +1,51 @@
 spotify-this-song,"I Want it That Way"**********EVENT INFO*********
+**********EVENT INFO*********
 0
-Name of the Venue: Hippodrome de Longchamp
-Venue Location: Paris
-Date of the Event: 2019-07-20T19:00:00
-*****************************
-**********EVENT INFO*********
-1
-Name of the Venue: Hippodrome  Longchamp
-Venue Location: Paris
-Date of the Event: 2019-07-21T12:30:00
-*****************************
-**********EVENT INFO*********
-2
-Name of the Venue: Drai's Beachclub & Nightclub
-Venue Location: Las Vegas
-Date of the Event: 2019-07-27T11:00:00
-*****************************
-**********EVENT INFO*********
-3
-Name of the Venue: Honda Center
-Venue Location: Anaheim
-Date of the Event: 2019-08-10T13:00:00
-*****************************
-**********EVENT INFO*********
-4
-Name of the Venue: RingCentral Coliseum
-Venue Location: Oakland
-Date of the Event: 2019-09-28T03:30:00
-*****************************
-**********EVENT INFO*********
-5
-Name of the Venue: The Grounds at Oakland Coliseum
-Venue Location: Oakland
-Date of the Event: 2019-09-29T12:30:00
-*****************************
-**********EVENT INFO*********
-6
-Name of the Venue: Las Vegas Festival Grounds
-Venue Location: Las Vegas
-Date of the Event: 2019-11-01T00:00:00
-*****************************
-**********EVENT INFO*********
-7
-Name of the Venue: Las Vegas Festival Grounds
-Venue Location: Las Vegas
-Date of the Event: 2019-11-02T12:00:00
-*****************************
-**********EVENT INFO*********
-8
-Name of the Venue: Las Vegas Festival Grounds
-Venue Location: Las Vegas
-Date of the Event: 2019-11-03T13:00:00
-*****************************
-**********EVENT INFO*********
-9
-Name of the Venue: 801 EVENT CENTER
-Venue Location: Hidden Lake Condominium
-Date of the Event: 2019-11-23T23:00:00
+Name of the Venue: Soundwell SLC
+|Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
 *****************************
 **********EVENT INFO*********
 0
-Name of the Venue: Hippodrome de Longchamp
-Venue Location: Paris
-Date of the Event: 2019-07-20T19:00:00
-*****************************
-**********EVENT INFO*********
-1
-Name of the Venue: Hippodrome  Longchamp
-Venue Location: Paris
-Date of the Event: 2019-07-21T12:30:00
-*****************************
-**********EVENT INFO*********
-2
-Name of the Venue: Drai's Beachclub & Nightclub
-Venue Location: Las Vegas
-Date of the Event: 2019-07-27T11:00:00
-*****************************
-**********EVENT INFO*********
-3
-Name of the Venue: Honda Center
-Venue Location: Anaheim
-Date of the Event: 2019-08-10T13:00:00
-*****************************
-**********EVENT INFO*********
-4
-Name of the Venue: RingCentral Coliseum
-Venue Location: Oakland
-Date of the Event: 2019-09-28T03:30:00
-*****************************
-**********EVENT INFO*********
-5
-Name of the Venue: The Grounds at Oakland Coliseum
-Venue Location: Oakland
-Date of the Event: 2019-09-29T12:30:00
-*****************************
-**********EVENT INFO*********
-6
-Name of the Venue: Las Vegas Festival Grounds
-Venue Location: Las Vegas
-Date of the Event: 2019-11-01T00:00:00
-*****************************
-**********EVENT INFO*********
-7
-Name of the Venue: Las Vegas Festival Grounds
-Venue Location: Las Vegas
-Date of the Event: 2019-11-02T12:00:00
-*****************************
-**********EVENT INFO*********
-8
-Name of the Venue: Las Vegas Festival Grounds
-Venue Location: Las Vegas
-Date of the Event: 2019-11-03T13:00:00
-*****************************
-**********EVENT INFO*********
-9
-Name of the Venue: 801 EVENT CENTER
-Venue Location: Hidden Lake Condominium
-Date of the Event: 2019-11-23T23:00:00
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
 *****************************
 **********EVENT INFO*********
 0
-Name of the Venue: Osheaga Festival 
-Venue Location: Montréal
-Date of the Event: 2019-08-03T12:00:00
-*****************************
-**********EVENT INFO*********
-1
-Name of the Venue: Waterfront Music & Arts Festival
-Venue Location: San Diego
-Date of the Event: 2019-11-22T12:00:00
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
 *****************************
 **********EVENT INFO*********
 0
-Name of the Venue: Otkritie Arena
-Venue Location: Moscow
-Date of the Event: 2019-07-19T20:00:00
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
 *****************************
 **********EVENT INFO*********
-1
-Name of the Venue: Malmi Airport
-Venue Location: Helsinki
-Date of the Event: 2019-07-23T19:00:00
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
 *****************************
 **********EVENT INFO*********
-2
-Name of the Venue: Tusindårsskoven
-Venue Location: Odense
-Date of the Event: 2019-07-27T19:00:00
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
 *****************************
 **********EVENT INFO*********
-3
-Name of the Venue: Messegelände
-Venue Location: Hannover
-Date of the Event: 2019-08-03T16:00:00
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
 *****************************
 **********EVENT INFO*********
-4
-Name of the Venue: Ile Obudai / Hongrie
-Venue Location: Budapest
-Date of the Event: 2019-08-07T19:00:00
-*****************************
-**********EVENT INFO*********
-5
-Name of the Venue: Laugardalsvöllur
-Venue Location: Reykjavik
-Date of the Event: 2019-08-11T20:00:00
-*****************************
-**********EVENT INFO*********
-6
-Name of the Venue: Ipswich Chantry Park
-Venue Location: Ipswich
-Date of the Event: 2019-08-25T00:00:00
-*****************************
-**********EVENT INFO*********
-7
-Name of the Venue: Ipswich Chantry Park
-Venue Location: Ipswich
-Date of the Event: 2019-08-26T00:00:00
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
 *****************************
 **********EVENT INFO*********
 0
@@ -297,322 +166,4 @@ Date of the Event: 2019-10-06T12:00:00
 Name of the Venue: El Paso County Coliseum
 Venue Location: El Paso
 Date of the Event: 2019-10-08T19:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: California Mid-State Fair
-Venue Location: Paso Robles
-Date of the Event: 2019-07-20T19:30:00
-*****************************
-**********EVENT INFO*********
-1
-Name of the Venue: BOK Center
-Venue Location: Tulsa
-Date of the Event: 2019-07-23T18:00:00
-*****************************
-**********EVENT INFO*********
-2
-Name of the Venue: Intrust Arena
-Venue Location: Wichita
-Date of the Event: 2019-07-24T18:00:54
-*****************************
-**********EVENT INFO*********
-3
-Name of the Venue: Pinnacle Bank Arena
-Venue Location: Lincoln
-Date of the Event: 2019-07-26T19:00:07
-*****************************
-**********EVENT INFO*********
-4
-Name of the Venue: Target Center
-Venue Location: Minneapolis
-Date of the Event: 2019-07-27T19:00:28
-*****************************
-**********EVENT INFO*********
-5
-Name of the Venue: Bankers Life Fieldhouse
-Venue Location: Indianapolis
-Date of the Event: 2019-07-30T19:00:00
-*****************************
-**********EVENT INFO*********
-6
-Name of the Venue: John Paul Jones Arena
-Venue Location: Charlottesville
-Date of the Event: 2019-07-31T19:00:06
-*****************************
-**********EVENT INFO*********
-7
-Name of the Venue: Downsview Park
-Venue Location: Toronto
-Date of the Event: 2019-08-03T19:00:00
-*****************************
-**********EVENT INFO*********
-8
-Name of the Venue: Slottsskogen
-Venue Location: Gothenburg
-Date of the Event: 2019-08-08T19:00:00
-*****************************
-**********EVENT INFO*********
-9
-Name of the Venue: Parrukatu
-Venue Location: Helsinki
-Date of the Event: 2019-08-09T19:00:00
-*****************************
-**********EVENT INFO*********
-10
-Name of the Venue: Honda Center
-Venue Location: Anaheim
-Date of the Event: 2019-08-10T03:30:00
-*****************************
-**********EVENT INFO*********
-11
-Name of the Venue: Papas & Beer
-Venue Location: Rosarito
-Date of the Event: 2019-08-16T14:00:00
-*****************************
-**********EVENT INFO*********
-12
-Name of the Venue: Ben Franklin Parkway
-Venue Location: Philadelphia
-Date of the Event: 2019-08-31T18:00:00
-*****************************
-**********EVENT INFO*********
-13
-Name of the Venue: Saratoga Performing Arts Center
-Venue Location: Saratoga Springs
-Date of the Event: 2019-09-06T19:30:00
-*****************************
-**********EVENT INFO*********
-14
-Name of the Venue: St. Joseph’s Health Amphitheater at Lakeview
-Venue Location: Syracuse
-Date of the Event: 2019-09-07T20:00:00
-*****************************
-**********EVENT INFO*********
-15
-Name of the Venue: Royal Farms Arena
-Venue Location: Baltimore
-Date of the Event: 2019-09-08T19:30:00
-*****************************
-**********EVENT INFO*********
-16
-Name of the Venue: Piedmont Park/Park Tavern
-Venue Location: Atlanta
-Date of the Event: 2019-09-14T12:00:00
-*****************************
-**********EVENT INFO*********
-17
-Name of the Venue: City of Rock
-Venue Location: Rio De Janeiro
-Date of the Event: 2019-09-27T19:00:00
-*****************************
-**********EVENT INFO*********
-18
-Name of the Venue: Zilker Metropolitan Park
-Venue Location: Austin
-Date of the Event: 2019-10-06T12:00:00
-*****************************
-**********EVENT INFO*********
-19
-Name of the Venue: El Paso County Coliseum
-Venue Location: El Paso
-Date of the Event: 2019-10-08T19:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Osheaga Festival 
-Venue Location: Montréal
-Date of the Event: 2019-08-03T12:00:00
-*****************************
-**********EVENT INFO*********
-1
-Name of the Venue: Waterfront Music & Arts Festival
-Venue Location: San Diego
-Date of the Event: 2019-11-22T12:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Osheaga Festival 
-Venue Location: Montréal
-Date of the Event: 2019-08-03T12:00:00
-*****************************
-**********EVENT INFO*********
-1
-Name of the Venue: Waterfront Music & Arts Festival
-Venue Location: San Diego
-Date of the Event: 2019-11-22T12:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Osheaga Festival 
-Venue Location: Montréal
-Date of the Event: 2019-08-03T12:00:00
-*****************************
-**********EVENT INFO*********
-1
-Name of the Venue: Waterfront Music & Arts Festival
-Venue Location: San Diego
-Date of the Event: 2019-11-22T12:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Osheaga Festival 
-Venue Location: Montréal
-Date of the Event: 2019-08-03T12:00:00
-*****************************
-**********EVENT INFO*********
-1
-Name of the Venue: Waterfront Music & Arts Festival
-Venue Location: San Diego
-Date of the Event: 2019-11-22T12:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Osheaga Festival 
-Venue Location: Montréal
-Date of the Event: 2019-08-03T12:00:00
-*****************************
-**********EVENT INFO*********
-1
-Name of the Venue: Waterfront Music & Arts Festival
-Venue Location: San Diego
-Date of the Event: 2019-11-22T12:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Osheaga Festival 
-Venue Location: Montréal
-Date of the Event: 2019-08-03T12:00:00
-*****************************
-**********EVENT INFO*********
-1
-Name of the Venue: Waterfront Music & Arts Festival
-Venue Location: San Diego
-Date of the Event: 2019-11-22T12:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Osheaga Festival 
-Venue Location: Montréal
-Date of the Event: 2019-08-03T12:00:00
-*****************************
-**********EVENT INFO*********
-1
-Name of the Venue: Waterfront Music & Arts Festival
-Venue Location: San Diego
-Date of the Event: 2019-11-22T12:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Osheaga Festival 
-Venue Location: Montréal
-Date of the Event: 2019-08-03T12:00:00
-*****************************
-**********EVENT INFO*********
-1
-Name of the Venue: Waterfront Music & Arts Festival
-Venue Location: San Diego
-Date of the Event: 2019-11-22T12:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Osheaga Festival 
-Venue Location: Montréal
-Date of the Event: 2019-08-03T12:00:00
-*****************************
-**********EVENT INFO*********
-1
-Name of the Venue: Waterfront Music & Arts Festival
-Venue Location: San Diego
-Date of the Event: 2019-11-22T12:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Osheaga Festival 
-|Venue Location: Montréal
-Date of the Event: 2019-08-03T12:00:00
-*****************************
-**********EVENT INFO*********
-1
-Name of the Venue: Waterfront Music & Arts Festival
-|Venue Location: San Diego
-Date of the Event: 2019-11-22T12:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Osheaga Festival 
-|Venue Location: Montréal
-Date of the Event: 2019-08-03T12:00:00
-*****************************
-**********EVENT INFO*********
-1
-Name of the Venue: Waterfront Music & Arts Festival
-|Venue Location: San Diego
-Date of the Event: 2019-11-22T12:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Osheaga Festival 
-|Venue Location: Montréal
-Date of the Event: 2019-08-03T12:00:00
-*****************************
-**********EVENT INFO*********
-1
-Name of the Venue: Waterfront Music & Arts Festival
-|Venue Location: San Diego
-Date of the Event: 2019-11-22T12:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Osheaga Festival 
-|Venue Location: Montréal
-Date of the Event: 2019-08-03T12:00:00
-*****************************
-**********EVENT INFO*********
-1
-Name of the Venue: Waterfront Music & Arts Festival
-|Venue Location: San Diego
-Date of the Event: 2019-11-22T12:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Osheaga Festival 
-|Venue Location: Montréal
-Date of the Event: 2019-08-03T12:00:00
-*****************************
-**********EVENT INFO*********
-1
-Name of the Venue: Waterfront Music & Arts Festival
-|Venue Location: San Diego
-Date of the Event: 2019-11-22T12:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Osheaga Festival 
-|Venue Location: Montréal
-Date of the Event: 2019-08-03T12:00:00
-*****************************
-**********EVENT INFO*********
-1
-Name of the Venue: Waterfront Music & Arts Festival
-|Venue Location: San Diego
-Date of the Event: 2019-11-22T12:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Soundwell SLC
-|Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Soundwell SLC
-|Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Soundwell SLC
-|Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
 *****************************

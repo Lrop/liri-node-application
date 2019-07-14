@@ -54,18 +54,18 @@ function UserInputs(appInput, appSearch) {
         if (appSearch === appSearch) {
             var concerts = JSON.parse(body);
             for (var i = 0; i < concerts.length; i++) {  
-                console.log("----------------------------------------------------------------------")
-                console.log("    The Artist " + appSearch + " Will be performing on the following dates:")
-                console.log("----------------------------------------------------------------------")
-                console.log("                   ***--------EVENT INFO--------***");  
+                console.log("-----------------------------------------------------------------------------")
+                console.log("    The Artist " + appSearch + " Will be performing on the following dates and venues:")
+                console.log("-----------------------------------------------------------------------------")
+                console.log("                ***--------EVENT INFO--------***");  
                 fs.appendFileSync("random.txt", "**********EVENT INFO*********\n");
                 console.log(i);
                 fs.appendFileSync("random.txt", i+"\n");
-                console.log("              | Name of the Venue: " + concerts[i].venue.name);
-                fs.appendFileSync("random.txt", "Name of the Venue: " + concerts[i].venue.name+"\n" + "|");
-                console.log("              | Venue Location: " +  concerts[i].venue.city);
+                console.log("              | Name of the Venue: " + concerts[i].venue.name + " |");
+                fs.appendFileSync("random.txt", "Name of the Venue: " + concerts[i].venue.name+"\n");
+                console.log("              | Venue Location: " +  concerts[i].venue.city + " |");
                 fs.appendFileSync("random.txt", "Venue Location: " +  concerts[i].venue.city+"\n");
-                console.log("              | Date of the Event: " +  concerts[i].datetime);
+                console.log("              | Date of the Event: " +  concerts[i].datetime + " |");
                 fs.appendFileSync("random.txt", "Date of the Event: " +  concerts[i].datetime+"\n");
                 
                 console.log("                                                                       ");
