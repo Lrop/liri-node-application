@@ -299,3 +299,370 @@ Name of the Venue: Center Stage Theater
 Venue Location: Atlanta
 Date of the Event: 2019-07-19T20:00:00
 *****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+*****************************
+**********EVENT INFO*********
+0
+**********EVENT INFO*********
+0
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Date of the Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
+**********EVENT INFO*********
+0
+**********EVENT INFO*********
+0
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
+**********EVENT INFO*********
+0
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
+**********EVENT INFO*********
+0
+**********EVENT INFO*********
+0
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
+**********EVENT INFO*********
+0
+**********EVENT INFO*********
+0
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: California Mid-State Fair
+Venue Location: Paso Robles
+Date of the Event: 2019-07-20T19:30:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+1
+1
+Name of the Venue: BOK Center
+Venue Location: Tulsa
+Date of the Event: 2019-07-23T18:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+2
+2
+Name of the Venue: Intrust Arena
+Venue Location: Wichita
+Date of the Event: 2019-07-24T18:00:54
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+3
+3
+Name of the Venue: Pinnacle Bank Arena
+Venue Location: Lincoln
+Date of the Event: 2019-07-26T19:00:07
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+4
+4
+Name of the Venue: Target Center
+Venue Location: Minneapolis
+Date of the Event: 2019-07-27T19:00:28
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+5
+5
+Name of the Venue: Bankers Life Fieldhouse
+Venue Location: Indianapolis
+Date of the Event: 2019-07-30T19:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+6
+6
+Name of the Venue: John Paul Jones Arena
+Venue Location: Charlottesville
+Date of the Event: 2019-07-31T19:00:06
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+7
+7
+Name of the Venue: Downsview Park
+Venue Location: Toronto
+Date of the Event: 2019-08-03T19:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+8
+8
+Name of the Venue: Slottsskogen
+Venue Location: Gothenburg
+Date of the Event: 2019-08-08T19:00:00
+Description of Event: Sweden's musical giant
+*****************************
+**********EVENT INFO*********
+9
+9
+Name of the Venue: Parrukatu
+Venue Location: Helsinki
+Date of the Event: 2019-08-09T19:00:00
+Description of Event: One of northern Europe's best
+*****************************
+**********EVENT INFO*********
+10
+10
+Name of the Venue: Honda Center
+Venue Location: Anaheim
+Date of the Event: 2019-08-10T03:30:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+11
+11
+Name of the Venue: Papas & Beer
+Venue Location: Rosarito
+Date of the Event: 2019-08-16T14:00:00
+Description of Event: Baja Beach Fest is a premier beachside Reggaeton and Latin Trap Music Festival, the largest of its kind! This year the event is 2-days long, with 15+ artists performing and a beachside venue 3x's the size as year 1.
+GA Ticket Purchase Includes:
+GA includes 2-Day access into the biggest Reggaeton & Latin Trap music festival on the West Coast, where you can experience over 15 of the top artists in the Latin Music world.
+GA offers access to all our onsite food spots, a large variety of drink options, our sponsor activations, and mucho mas!
+Doesn't include entrance to Papas&Beer
+VIP Ticket Purchase Includes:
+VIP provides access into the biggest Reggaeton & Latin Trap music festival on the West Coast where you can enjoy large festival grounds & a VIP exclusive area near the stage (sides).
+VIP includes access to VIP exclusive bars, VIP exclusive bathrooms, all food vendors, and our sponsored activations.
+Entrance to VIP Pool Parties at Papas&Beer Friday and Saturday.
+Open Bar at Friday and Saturday Pool Parties from 12 PM - 2 PM.
+Entrance to VIP Afterparties at Papas&Beer both Friday and Saturday.
+NOTE: The different tiers all offer the exact same type of ticket. Each Tier has a limited amount of inventory available, when that inventory sells out, the next Tier opens. Following Tier 1, will be Tier 2, then Tier 3, and so on.
+This is an 18+ event; valid ID or passport is required. 
+Baja Beach Fest Ticketing Policy:
+There is a strict NO REFUNDS policy on this event. By purchasing a ticket for our event you agree to the terms & conditions. For the full terms & conditions please head over to the link here: www.bajabeachfest.com at the bottom of the page.
+Tickets: After completing your purchase, you will receive an email with your tickets confirming your order. We highly recommend you print your PDF tickets & bring them along with the ID that matches the name on the order. You may, however, use the Eventbrite App on your phone in place of the PDF printed tickets, but if any issues arise with the ticket, the original purchaser must be present with a valid ID.
+TICKET REMINDER/WARNING: In order to ensure entry to our event, please make sure to purchase your tickets through AUTHORIZED platforms only, which include: www.bajabeachfest.com and www.eventbrite.com. We are not responsible for any 3rd party platforms and do not condone purchasing from any of these platforms. 
+For any questions regarding the validity of tickets, please email support@bajabeachfest.com
+For more information visit www.bajabeachfest.com
+*****************************
+**********EVENT INFO*********
+12
+12
+Name of the Venue: Ben Franklin Parkway
+Venue Location: Philadelphia
+Date of the Event: 2019-08-31T18:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+13
+13
+Name of the Venue: Saratoga Performing Arts Center
+Venue Location: Saratoga Springs
+Date of the Event: 2019-09-06T19:30:00
+Description of Event: Event is rain or shine
+*****************************
+**********EVENT INFO*********
+14
+14
+Name of the Venue: St. Joseph’s Health Amphitheater at Lakeview
+Venue Location: Syracuse
+Date of the Event: 2019-09-07T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+15
+15
+Name of the Venue: Royal Farms Arena
+Venue Location: Baltimore
+Date of the Event: 2019-09-08T19:30:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+16
+16
+Name of the Venue: Piedmont Park/Park Tavern
+Venue Location: Atlanta
+Date of the Event: 2019-09-14T12:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+17
+17
+Name of the Venue: City of Rock
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-09-27T19:00:00
+Description of Event: A true festival giant
+*****************************
+**********EVENT INFO*********
+18
+18
+Name of the Venue: Zilker Metropolitan Park
+Venue Location: Austin
+Date of the Event: 2019-10-06T12:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+19
+19
+Name of the Venue: El Paso County Coliseum
+Venue Location: El Paso
+Date of the Event: 2019-10-08T19:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+**********EVENT INFO*********
+**********EVENT INFO*********
+**********EVENT INFO*********
+**********EVENT INFO*********
+**********EVENT INFO*********
+0**********EVENT INFO*********
+0**********EVENT INFO*********
+0**********EVENT INFO*********
+0**********EVENT INFO*********
+0
