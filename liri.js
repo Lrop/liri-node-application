@@ -41,7 +41,7 @@ function UserInputs(appInput, appSearch) {
             doingSomething();
             break;
         default:
-            console.log("Invalid Option. Please type any of the following options: \nconcert-this \nspotify-this-song \nmovie-this \ndo-what-it-says")
+            console.log("Error. Please enter vailid call back: \nconcert-this \nspotify-this-song \nmovie-this \ndo-what-it-says")
         }
 
     }
@@ -62,11 +62,11 @@ function UserInputs(appInput, appSearch) {
                 console.log(i);
                 fs.appendFileSync("random.txt", i+"\n");
                 console.log("              | Name of the Venue: " + concerts[i].venue.name + " |");
-                fs.appendFileSync("random.txt", "Name of the Venue: " + concerts[i].venue.name+"\n");
+                fs.appendFileSync("random.txt",      "Name of the Venue: " + concerts[i].venue.name+"\n");
                 console.log("              | Venue Location: " +  concerts[i].venue.city + " |");
-                fs.appendFileSync("random.txt", "Venue Location: " +  concerts[i].venue.city+"\n");
+                fs.appendFileSync("random.txt",      "Venue Location: " +  concerts[i].venue.city+"\n");
                 console.log("              | Date of the Event: " +  concerts[i].datetime + " |");
-                fs.appendFileSync("random.txt", "Date of the Event: " +  concerts[i].datetime+"\n");
+                fs.appendFileSync("random.txt",      "Date of the Event: " +  concerts[i].datetime+"\n");
                 
                 console.log("                                                                       ");
                 fs.appendFileSync("random.txt", "*****************************"+"\n");
@@ -75,6 +75,8 @@ function UserInputs(appInput, appSearch) {
           console.log('Error occurred.');
         }
     });}
+
+
 
 
 
