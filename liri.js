@@ -51,80 +51,81 @@ function UserInputs(appInput, appSearch) {
     }
 
    
-    // function getConcertInfo(appSearch){
-    //     var queryUrl = "https://rest.bandsintown.com/artists/" + appSearch + "/events?app_id=codingbootcamp";
-    //     console.log(queryUrl)
-    //     request(queryUrl, function(error, response, offers) {
-    //     // If the request is successful
-    //     if (appSearch === appSearch) {
-    //         var concerts = JSON.parse(offers);
-    //         for (var i = 0; i < concerts.length; i++) {  
-    //             console.log("-----------------------------------------------------------------------------")
-    //             console.log("    The Artist " + appSearch + " Will be performing on the following dates and venues:")
-    //             console.log("-----------------------------------------------------------------------------")
-    //             console.log("                ***--------EVENT INFO--------***");  
-    //             fs.appendFileSync("random.txt", "**********EVENT INFO*********\n");
-    //             console.log(i);
-    //             fs.appendFileSync("random.txt", i+"\n");
-    //              console.log("              | Ticket Status: " + concerts[i].offers.type + " |");
-    //             fs.appendFileSync("random.txt", i+"\n");
-    //             console.log("              | Name of the Venue: " + concerts[i].venue.name + " |");
-    //             fs.appendFileSync("random.txt",      "Name of the Venue: " + concerts[i].venue.name+"\n");
-    //             console.log("              | Venue Location: " +  concerts[i].venue.city + " |");
-    //             fs.appendFileSync("random.txt",      "Venue Location: " +  concerts[i].venue.city+"\n");
-    //             console.log("              | Date of the Event: " +  concerts[i].datetime + " |");
-    //             fs.appendFileSync("random.txt",      "Date of the Event: " +  concerts[i].datetime+"\n");
-    //             console.log("              | Description of the Event: " +  concerts[i].description + " |");
-    //             fs.appendFileSync("random.txt",      "Description of Event: " +  concerts[i].description+"\n");
-                
-    //             console.log("                                                                       ");
-    //             fs.appendFileSync("random.txt", "*****************************"+"\n");
-    //         }
-    //     } else{
-    //       console.log('Error occurred.');
-    //     }
-    // });
-    
-    // }
-
-    
     function getConcertInfo(appSearch){
         var queryUrl = "https://rest.bandsintown.com/artists/" + appSearch + "/events?app_id=codingbootcamp";
-
-        console.log(queryUrl);
-
-        axios.get(queryUrl).then(
-            function(response) {
-              var jsonData = response.data;
-        console.log(queryUrl);
-
-      
-    
-        
+        console.log(queryUrl)
+        request(queryUrl, function(error, response, offers) {
+        // If the request is successful
+        if (appSearch === appSearch) {
+            var concerts = JSON.parse(offers);
+            for (var i = 0; i < concerts.length; i++) {  
                 console.log("-----------------------------------------------------------------------------")
                 console.log("    The Artist " + appSearch + " Will be performing on the following dates and venues:")
                 console.log("-----------------------------------------------------------------------------")
                 console.log("                ***--------EVENT INFO--------***");  
-                // fs.appendFileSync("random.txt", "**********EVENT INFO*********\n");
-                console.log();
-                // fs.appendFileSync("random.txt", +"\n");
-                 console.log("              | Ticket Status: " + jsonData.offers.type + " |");
-                // fs.appendFileSync("random.txt", +"\n");
-                console.log("              | Name of the Venue: " + jsonData.venue.name + " |");
-                // fs.appendFileSync("random.txt",      "Name of the Venue: " + jsonData.venue.name+"\n");
-                console.log("              | Venue Location: " +  jsonData.venue.city + " |");
-                // fs.appendFileSync("random.txt",      "Venue Location: " +  jsonData.venue.city+"\n");
-                console.log("              | Date of the Event: " +  jsonData.datetime + " |");
-                // fs.appendFileSync("random.txt",      "Date of the Event: " +  jsonData.datetime+"\n");
-                console.log("              | Description of the Event: " +  jsonData.description + " |");
-                // fs.appendFileSync("random.txt",      "Description of Event: " +  jsonData.description+"\n");
+                fs.appendFileSync("random.txt", "**********EVENT INFO*********\n");
+                console.log(i);
+                fs.appendFileSync("random.txt", i+"\n");
+                 console.log("              | Ticket Status: " + concerts[i].offers.type + " |");
+                fs.appendFileSync("random.txt", i+"\n");
+                console.log("              | Name of the Venue: " + concerts[i].venue.name + " |");
+                fs.appendFileSync("random.txt",      "Name of the Venue: " + concerts[i].venue.name+"\n");
+                console.log("              | Venue Location: " +  concerts[i].venue.city + " |");
+                fs.appendFileSync("random.txt",      "Venue Location: " +  concerts[i].venue.city+"\n");
+                console.log("              | Date of the Event: " +  concerts[i].datetime + " |");
+                fs.appendFileSync("random.txt",      "Date of the Event: " +  concerts[i].datetime+"\n");
+                console.log("              | Description of the Event: " +  concerts[i].description + " |");
+                fs.appendFileSync("random.txt",      "Description of Event: " +  concerts[i].description+"\n");
                 
                 console.log("                                                                       ");
-                // fs.appendFileSync("random.txt", "*****************************"+"\n");
-                 
+                fs.appendFileSync("random.txt", "*****************************"+"\n");
+            }
+        } else{
+          console.log('Error occurred.');
         }
-        );
+    });
+    
     }
+
+    
+    // function getConcertInfo(response){
+    //     var queryUrl = "https://rest.bandsintown.com/artists/" + appSearch + "/events?app_id=codingbootcamp";
+
+    //     console.log(queryUrl);
+    //     // var concerts = JSON.parse(offers);
+
+    //     axios.get(queryUrl).then(
+    //         function(response) {
+    //     // console.log(queryUrl);
+        
+
+      
+    
+        
+    //             console.log("-----------------------------------------------------------------------------")
+    //             console.log("    The Artist " + appSearch + " Will be performing on the following dates and venues:")
+    //             console.log("-----------------------------------------------------------------------------")
+    //             console.log("                ***--------EVENT INFO--------***");  
+    //             // fs.appendFileSync("random.txt", "**********EVENT INFO*********\n");
+    //             console.log();
+    //             // fs.appendFileSync("random.txt", +"\n");
+    //              console.log("              | Ticket Status: " + jsonData.offers.type + " |");
+    //             // fs.appendFileSync("random.txt", +"\n");
+    //             console.log("              | Name of the Venue: " + jsonData.venue.name + " |");
+    //             // fs.appendFileSync("random.txt",      "Name of the Venue: " + jsonData.venue.name+"\n");
+    //             console.log("              | Venue Location: " +  jsonData.venue.city + " |");
+    //             // fs.appendFileSync("random.txt",      "Venue Location: " +  jsonData.venue.city+"\n");
+    //             console.log("              | Date of the Event: " +  jsonData.datetime + " |");
+    //             // fs.appendFileSync("random.txt",      "Date of the Event: " +  jsonData.datetime+"\n");
+    //             console.log("              | Description of the Event: " +  jsonData.description + " |");
+    //             // fs.appendFileSync("random.txt",      "Description of Event: " +  jsonData.description+"\n");
+                
+    //             console.log("                                                                       ");
+    //             // fs.appendFileSync("random.txt", "*****************************"+"\n");
+                 
+    //     }
+    //     );
+    // }
 
     var getOMBD = function(getmovie) {
         if(getmovie === undefined){
@@ -143,9 +144,9 @@ function UserInputs(appInput, appSearch) {
             function(response) {
               var jsonData = response.data;
                 
-            console.log("-------------------------");
+            console.log("-----------------------------------");
             console.log("  Title: " + jsonData.Title);
-            console.log("-------------------------");
+            console.log("-----------------------------------");
             console.log(" Year: " + jsonData.Year + '\n');
             console.log(" Rated: " + jsonData.Rated + '\n');
             console.log(" IMDB Rating: " + jsonData.imdbRating + '\n');
@@ -153,9 +154,9 @@ function UserInputs(appInput, appSearch) {
             console.log(" Language: " + jsonData.Language+ '\n');
             console.log(" Plot: " + jsonData.Plot);
             console.log(" Actors: " + jsonData.Actors);
-            console.log("-------------------------");
+            console.log("------------------------------------");
             console.log("  Rotten Tomatoes Rating: " + jsonData.Ratings[1].Value);
-            console.log("-------------------------");
+            console.log("------------------------------------");
     }
   );
 };

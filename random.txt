@@ -665,4 +665,11 @@ Description of Event:
 0**********EVENT INFO*********
 0**********EVENT INFO*********
 0**********EVENT INFO*********
+0**********EVENT INFO*********
 0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
