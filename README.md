@@ -32,13 +32,16 @@ You'll use Axios to grab data from the OMDB API and the Bands In Town API.
 - movie-this
 - do-what-it-says
 
-#### Example
+#### Example One:
 `node liri.js concert-this "name of artist or band"`
 
+#### Example Two:
 `node liri.js spotify-this-song "name of tune"`
 
+#### Example Three:
 `node liri.js movie-this "name of movie"`
 
+#### Example Four:
 `node liri.js do-what-it-says`
 
 
