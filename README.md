@@ -32,4 +32,7 @@ You'll use Axios to grab data from the OMDB API and the Bands In Town API.
 - movie-this
 - do-what-it-says
 
+#### Example
+`node liri.js concert-this <name of artist or band>`
+
 
