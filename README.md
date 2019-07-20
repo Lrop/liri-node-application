@@ -14,7 +14,7 @@ You'll find these Node packages crucial for your assignment.
 
 3. Moment
 
-4.DotEnv
+4. DotEnv
 
 
 You'll use Axios to grab data from the OMDB API and the Bands In Town API.
