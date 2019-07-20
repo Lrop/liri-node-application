@@ -18,3 +18,18 @@ You'll find these Node packages crucial for your assignment.
 
 
 You'll use Axios to grab data from the OMDB API and the Bands In Town API.
+
+## How to use Liri-Node Application 
+
+1. Open your Terminal command line (Gitbash, CMDER, Terminal, etc)
+
+2. Navigate inside of the command line to the folder that contains liri.js
+
+3.Enter one of four commands such as:
+
+concert-this
+spotify-this-song
+movie-this
+do-what-it-says
+
+
