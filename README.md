@@ -27,9 +27,9 @@ You'll use Axios to grab data from the OMDB API and the Bands In Town API.
 
 3. Enter one of four commands such as:
 
-concert-this
-spotify-this-song
-movie-this
-do-what-it-says
+-concert-this
+-spotify-this-song
+-movie-this
+-do-what-it-says
 
 
