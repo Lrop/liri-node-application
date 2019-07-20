@@ -25,7 +25,7 @@ You'll use Axios to grab data from the OMDB API and the Bands In Town API.
 
 2. Navigate inside of the command line to the folder that contains liri.js
 
-3.Enter one of four commands such as:
+3. Enter one of four commands such as:
 
 concert-this
 spotify-this-song
