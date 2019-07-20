@@ -673,3 +673,165 @@ Venue Location: Salt Lake City
 Date of the Event: 2019-07-23T21:00:00
 Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
 *****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Mercedes-Benz Superdome
+Venue Location: New Orleans
+Date of the Event: 2019-07-14T19:30:00
+Description of Event: American Express has set a two-order limit for this offer. This limit applies across all Cards associated with all of your American Express accounts There is a strict overall 8 ticket limit (4 for presales) per person, address, credit card, IP, household etc. as well as other specific limits. Violation of any ticket limits or attempts to counter the limit measures could result in cancellation of all orders at the discretion of the venue/promoter. No Refunds / No Exchanges / No Alternate Pick Ups allowed
+*****************************
+**********EVENT INFO*********
+1
+1
+Name of the Venue: TIAA Bank Field
+Venue Location: Jacksonville
+Date of the Event: 2019-07-19T19:30:00
+Description of Event: This event has been rescheduled - new date is 7/19/19. Tickets may be used on the new date (once confirmed). Refunds at point of purchase only.
+*****************************
+**********EVENT INFO*********
+2
+2
+Name of the Venue: Lincoln Financial Field
+Venue Location: Philadelphia
+Date of the Event: 2019-07-23T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+3
+3
+Name of the Venue: NRG Park
+Venue Location: Houston
+Date of the Event: 2019-07-27T19:30:00
+Description of Event: The NRG Park Clear Bag Policy will be in effect for this show. For more information go to www.nrgpark.com/clear-bag-policy. Children 2 and older require a ticket. Under 2 are free on the lap.
+*****************************
+**********EVENT INFO*********
+4
+4
+Name of the Venue: MetLife Stadium
+Venue Location: East Rutherford
+Date of the Event: 2019-08-01T19:30:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+5
+5
+Name of the Venue: MetLife Stadium
+Venue Location: East Rutherford
+Date of the Event: 2019-08-05T19:30:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+6
+6
+Name of the Venue: Broncos Stadium at Mile High
+Venue Location: Denver
+Date of the Event: 2019-08-10T07:30:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+7
+7
+Name of the Venue: CenturyLink Field
+Venue Location: Seattle
+Date of the Event: 2019-08-14T19:30:00
+Description of Event: This event has been rescheduled, new date/time August 14,2019 7:30 PM PST. Your tickets for the original date will remain valid for the new date. Refunds at point of purchase only. BAG POLICY: Fans may carry only the following style and size bag, package, or container into CenturyLink Field or when approaching queue lines of fans awaiting entry: Clear plastic/vinyl/PVC and do not exceed 12 in x 6 in x 12 in. One-gallon clear plastic freezer bag. Small clutch bags no bigger than 4.5 in x 6.5 in may be carried in along with a clear bag. An exception will be made for medically necessary items after proper inspection at VIP, Club, and Suite gates.
+*****************************
+**********EVENT INFO*********
+8
+8
+Name of the Venue: Levi's Stadium
+Venue Location: Santa Clara
+Date of the Event: 2019-08-18T19:30:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+9
+9
+Name of the Venue: Rose Bowl Stadium
+Venue Location: Pasadena
+Date of the Event: 2019-08-22T19:30:00
+Description of Event: American Express has set a two-order limit for this offer. This limit applies across all Cards associated with all of your American Express accounts.
+*****************************
+**********EVENT INFO*********
+10
+10
+Name of the Venue: State Farm Stadium
+Venue Location: Glendale
+Date of the Event: 2019-08-26T20:00:00
+Description of Event: Please Register in "My Account" before the onsale for faster checkout! Everyone needs a ticket.
+*****************************
+**********EVENT INFO*********
+11
+11
+Name of the Venue: Hard Rock Stadium
+Venue Location: Miami Gardens
+Date of the Event: 2019-08-31T20:00:00
+Description of Event: This event has been postponed - new date/time Saturday August 31 2019 at 8:00PM. Original tickets honored. Refunds at point of purchase only for tickets with the original date.
+*****************************
+**********EVENT INFO*********
+0
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
