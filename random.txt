@@ -1,769 +1,79 @@
-spotify-this-song,"I Want it That Way"**********EVENT INFO*********
+spotify-this-song,"I Want it That Way
 **********EVENT INFO*********
 0
-Name of the Venue: Soundwell SLC
-|Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: California Mid-State Fair
-Venue Location: Paso Robles
-Date of the Event: 2019-07-20T19:30:00
-*****************************
-**********EVENT INFO*********
-1
-Name of the Venue: BOK Center
-Venue Location: Tulsa
-Date of the Event: 2019-07-23T18:00:00
-*****************************
-**********EVENT INFO*********
-2
-Name of the Venue: Intrust Arena
-Venue Location: Wichita
-Date of the Event: 2019-07-24T18:00:54
-*****************************
-**********EVENT INFO*********
-3
-Name of the Venue: Pinnacle Bank Arena
-Venue Location: Lincoln
-Date of the Event: 2019-07-26T19:00:07
-*****************************
-**********EVENT INFO*********
-4
-Name of the Venue: Target Center
-Venue Location: Minneapolis
-Date of the Event: 2019-07-27T19:00:28
-*****************************
-**********EVENT INFO*********
-5
-Name of the Venue: Bankers Life Fieldhouse
-Venue Location: Indianapolis
-Date of the Event: 2019-07-30T19:00:00
-*****************************
-**********EVENT INFO*********
-6
-Name of the Venue: John Paul Jones Arena
-Venue Location: Charlottesville
-Date of the Event: 2019-07-31T19:00:06
-*****************************
-**********EVENT INFO*********
-7
-Name of the Venue: Downsview Park
-Venue Location: Toronto
-Date of the Event: 2019-08-03T19:00:00
-*****************************
-**********EVENT INFO*********
-8
-Name of the Venue: Slottsskogen
-Venue Location: Gothenburg
-Date of the Event: 2019-08-08T19:00:00
-*****************************
-**********EVENT INFO*********
-9
-Name of the Venue: Parrukatu
-Venue Location: Helsinki
-Date of the Event: 2019-08-09T19:00:00
-*****************************
-**********EVENT INFO*********
-10
-Name of the Venue: Honda Center
-Venue Location: Anaheim
-Date of the Event: 2019-08-10T03:30:00
-*****************************
-**********EVENT INFO*********
-11
-Name of the Venue: Papas & Beer
-Venue Location: Rosarito
-Date of the Event: 2019-08-16T14:00:00
-*****************************
-**********EVENT INFO*********
-12
-Name of the Venue: Ben Franklin Parkway
-Venue Location: Philadelphia
-Date of the Event: 2019-08-31T18:00:00
-*****************************
-**********EVENT INFO*********
-13
-Name of the Venue: Saratoga Performing Arts Center
-Venue Location: Saratoga Springs
-Date of the Event: 2019-09-06T19:30:00
-*****************************
-**********EVENT INFO*********
-14
-Name of the Venue: St. Joseph’s Health Amphitheater at Lakeview
-Venue Location: Syracuse
-Date of the Event: 2019-09-07T20:00:00
-*****************************
-**********EVENT INFO*********
-15
-Name of the Venue: Royal Farms Arena
-Venue Location: Baltimore
-Date of the Event: 2019-09-08T19:30:00
-*****************************
-**********EVENT INFO*********
-16
-Name of the Venue: Piedmont Park/Park Tavern
-Venue Location: Atlanta
-Date of the Event: 2019-09-14T12:00:00
-*****************************
-**********EVENT INFO*********
-17
-Name of the Venue: City of Rock
-Venue Location: Rio De Janeiro
-Date of the Event: 2019-09-27T19:00:00
-*****************************
-**********EVENT INFO*********
-18
-Name of the Venue: Zilker Metropolitan Park
-Venue Location: Austin
-Date of the Event: 2019-10-06T12:00:00
-*****************************
-**********EVENT INFO*********
-19
-Name of the Venue: El Paso County Coliseum
-Venue Location: El Paso
-Date of the Event: 2019-10-08T19:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: California Mid-State Fair
-Venue Location: Paso Robles
-Date of the Event: 2019-07-20T19:30:00
-*****************************
-**********EVENT INFO*********
-1
-Name of the Venue: BOK Center
-Venue Location: Tulsa
-Date of the Event: 2019-07-23T18:00:00
-*****************************
-**********EVENT INFO*********
-2
-Name of the Venue: Intrust Arena
-Venue Location: Wichita
-Date of the Event: 2019-07-24T18:00:54
-*****************************
-**********EVENT INFO*********
-3
-Name of the Venue: Pinnacle Bank Arena
-Venue Location: Lincoln
-Date of the Event: 2019-07-26T19:00:07
-*****************************
-**********EVENT INFO*********
-4
-Name of the Venue: Target Center
-Venue Location: Minneapolis
-Date of the Event: 2019-07-27T19:00:28
-*****************************
-**********EVENT INFO*********
-5
-Name of the Venue: Bankers Life Fieldhouse
-Venue Location: Indianapolis
-Date of the Event: 2019-07-30T19:00:00
-*****************************
-**********EVENT INFO*********
-6
-Name of the Venue: John Paul Jones Arena
-Venue Location: Charlottesville
-Date of the Event: 2019-07-31T19:00:06
-*****************************
-**********EVENT INFO*********
-7
-Name of the Venue: Downsview Park
-Venue Location: Toronto
-Date of the Event: 2019-08-03T19:00:00
-*****************************
-**********EVENT INFO*********
-8
-Name of the Venue: Slottsskogen
-Venue Location: Gothenburg
-Date of the Event: 2019-08-08T19:00:00
-*****************************
-**********EVENT INFO*********
-9
-Name of the Venue: Parrukatu
-Venue Location: Helsinki
-Date of the Event: 2019-08-09T19:00:00
-*****************************
-**********EVENT INFO*********
-10
-Name of the Venue: Honda Center
-Venue Location: Anaheim
-Date of the Event: 2019-08-10T03:30:00
-*****************************
-**********EVENT INFO*********
-11
-Name of the Venue: Papas & Beer
-Venue Location: Rosarito
-Date of the Event: 2019-08-16T14:00:00
-*****************************
-**********EVENT INFO*********
-12
-Name of the Venue: Ben Franklin Parkway
-Venue Location: Philadelphia
-Date of the Event: 2019-08-31T18:00:00
-*****************************
-**********EVENT INFO*********
-13
-Name of the Venue: Saratoga Performing Arts Center
-Venue Location: Saratoga Springs
-Date of the Event: 2019-09-06T19:30:00
-*****************************
-**********EVENT INFO*********
-14
-Name of the Venue: St. Joseph’s Health Amphitheater at Lakeview
-Venue Location: Syracuse
-Date of the Event: 2019-09-07T20:00:00
-*****************************
-**********EVENT INFO*********
-15
-Name of the Venue: Royal Farms Arena
-Venue Location: Baltimore
-Date of the Event: 2019-09-08T19:30:00
-*****************************
-**********EVENT INFO*********
-16
-Name of the Venue: Piedmont Park/Park Tavern
-Venue Location: Atlanta
-Date of the Event: 2019-09-14T12:00:00
-*****************************
-**********EVENT INFO*********
-17
-Name of the Venue: City of Rock
-Venue Location: Rio De Janeiro
-Date of the Event: 2019-09-27T19:00:00
-*****************************
-**********EVENT INFO*********
-18
-Name of the Venue: Zilker Metropolitan Park
-Venue Location: Austin
-Date of the Event: 2019-10-06T12:00:00
-*****************************
-**********EVENT INFO*********
-19
-Name of the Venue: El Paso County Coliseum
-Venue Location: El Paso
-Date of the Event: 2019-10-08T19:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Center Stage Theater
-Venue Location: Atlanta
-Date of the Event: 2019-07-19T20:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-*****************************
-**********EVENT INFO*********
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-*****************************
-**********EVENT INFO*********
-0
-**********EVENT INFO*********
-0
-**********EVENT INFO*********
-0
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-*****************************
-**********EVENT INFO*********
-0
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-*****************************
-**********EVENT INFO*********
-0
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-*****************************
-**********EVENT INFO*********
-0
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-*****************************
-**********EVENT INFO*********
-0
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-Date of the Event: Live Nite Events Presents: Golden Vessel at Soundwell
-*****************************
-**********EVENT INFO*********
-0
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
-*****************************
-**********EVENT INFO*********
-0
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
-*****************************
-**********EVENT INFO*********
-0
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
-*****************************
-**********EVENT INFO*********
-0
-**********EVENT INFO*********
-0
-**********EVENT INFO*********
-0
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
-*****************************
-**********EVENT INFO*********
-0
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
-*****************************
-**********EVENT INFO*********
-0
-**********EVENT INFO*********
-0
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
-*****************************
-**********EVENT INFO*********
-0
-**********EVENT INFO*********
-0
-**********EVENT INFO*********
-0
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
-*****************************
-**********EVENT INFO*********
-0
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
-*****************************
-**********EVENT INFO*********
-0
-**********EVENT INFO*********
-0
-**********EVENT INFO*********
-0
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
-*****************************
-**********EVENT INFO*********
-0
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
-*****************************
-**********EVENT INFO*********
-0
 0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
-*****************************
-**********EVENT INFO*********
-0
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
-*****************************
-**********EVENT INFO*********
-0
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
-*****************************
-**********EVENT INFO*********
-0
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
-*****************************
-**********EVENT INFO*********
-0
-0
-Name of the Venue: California Mid-State Fair
-Venue Location: Paso Robles
-Date of the Event: 2019-07-20T19:30:00
-Description of Event: 
-*****************************
-**********EVENT INFO*********
-1
-1
-Name of the Venue: BOK Center
-Venue Location: Tulsa
-Date of the Event: 2019-07-23T18:00:00
-Description of Event: 
-*****************************
-**********EVENT INFO*********
-2
-2
-Name of the Venue: Intrust Arena
-Venue Location: Wichita
-Date of the Event: 2019-07-24T18:00:54
-Description of Event: 
-*****************************
-**********EVENT INFO*********
-3
-3
-Name of the Venue: Pinnacle Bank Arena
-Venue Location: Lincoln
-Date of the Event: 2019-07-26T19:00:07
-Description of Event: 
-*****************************
-**********EVENT INFO*********
-4
-4
-Name of the Venue: Target Center
-Venue Location: Minneapolis
-Date of the Event: 2019-07-27T19:00:28
-Description of Event: 
-*****************************
-**********EVENT INFO*********
-5
-5
-Name of the Venue: Bankers Life Fieldhouse
-Venue Location: Indianapolis
-Date of the Event: 2019-07-30T19:00:00
-Description of Event: 
-*****************************
-**********EVENT INFO*********
-6
-6
-Name of the Venue: John Paul Jones Arena
-Venue Location: Charlottesville
-Date of the Event: 2019-07-31T19:00:06
-Description of Event: 
-*****************************
-**********EVENT INFO*********
-7
-7
-Name of the Venue: Downsview Park
-Venue Location: Toronto
-Date of the Event: 2019-08-03T19:00:00
-Description of Event: 
-*****************************
-**********EVENT INFO*********
-8
-8
-Name of the Venue: Slottsskogen
-Venue Location: Gothenburg
-Date of the Event: 2019-08-08T19:00:00
-Description of Event: Sweden's musical giant
-*****************************
-**********EVENT INFO*********
-9
-9
-Name of the Venue: Parrukatu
-Venue Location: Helsinki
-Date of the Event: 2019-08-09T19:00:00
-Description of Event: One of northern Europe's best
-*****************************
-**********EVENT INFO*********
-10
-10
-Name of the Venue: Honda Center
-Venue Location: Anaheim
-Date of the Event: 2019-08-10T03:30:00
-Description of Event: 
-*****************************
-**********EVENT INFO*********
-11
-11
-Name of the Venue: Papas & Beer
-Venue Location: Rosarito
-Date of the Event: 2019-08-16T14:00:00
-Description of Event: Baja Beach Fest is a premier beachside Reggaeton and Latin Trap Music Festival, the largest of its kind! This year the event is 2-days long, with 15+ artists performing and a beachside venue 3x's the size as year 1.
-GA Ticket Purchase Includes:
-GA includes 2-Day access into the biggest Reggaeton & Latin Trap music festival on the West Coast, where you can experience over 15 of the top artists in the Latin Music world.
-GA offers access to all our onsite food spots, a large variety of drink options, our sponsor activations, and mucho mas!
-Doesn't include entrance to Papas&Beer
-VIP Ticket Purchase Includes:
-VIP provides access into the biggest Reggaeton & Latin Trap music festival on the West Coast where you can enjoy large festival grounds & a VIP exclusive area near the stage (sides).
-VIP includes access to VIP exclusive bars, VIP exclusive bathrooms, all food vendors, and our sponsored activations.
-Entrance to VIP Pool Parties at Papas&Beer Friday and Saturday.
-Open Bar at Friday and Saturday Pool Parties from 12 PM - 2 PM.
-Entrance to VIP Afterparties at Papas&Beer both Friday and Saturday.
-NOTE: The different tiers all offer the exact same type of ticket. Each Tier has a limited amount of inventory available, when that inventory sells out, the next Tier opens. Following Tier 1, will be Tier 2, then Tier 3, and so on.
-This is an 18+ event; valid ID or passport is required. 
-Baja Beach Fest Ticketing Policy:
-There is a strict NO REFUNDS policy on this event. By purchasing a ticket for our event you agree to the terms & conditions. For the full terms & conditions please head over to the link here: www.bajabeachfest.com at the bottom of the page.
-Tickets: After completing your purchase, you will receive an email with your tickets confirming your order. We highly recommend you print your PDF tickets & bring them along with the ID that matches the name on the order. You may, however, use the Eventbrite App on your phone in place of the PDF printed tickets, but if any issues arise with the ticket, the original purchaser must be present with a valid ID.
-TICKET REMINDER/WARNING: In order to ensure entry to our event, please make sure to purchase your tickets through AUTHORIZED platforms only, which include: www.bajabeachfest.com and www.eventbrite.com. We are not responsible for any 3rd party platforms and do not condone purchasing from any of these platforms. 
-For any questions regarding the validity of tickets, please email support@bajabeachfest.com
-For more information visit www.bajabeachfest.com
-*****************************
-**********EVENT INFO*********
-12
-12
-Name of the Venue: Ben Franklin Parkway
-Venue Location: Philadelphia
-Date of the Event: 2019-08-31T18:00:00
-Description of Event: 
-*****************************
-**********EVENT INFO*********
-13
-13
-Name of the Venue: Saratoga Performing Arts Center
-Venue Location: Saratoga Springs
-Date of the Event: 2019-09-06T19:30:00
-Description of Event: Event is rain or shine
-*****************************
-**********EVENT INFO*********
-14
-14
-Name of the Venue: St. Joseph’s Health Amphitheater at Lakeview
-Venue Location: Syracuse
-Date of the Event: 2019-09-07T20:00:00
-Description of Event: 
-*****************************
-**********EVENT INFO*********
-15
-15
-Name of the Venue: Royal Farms Arena
-Venue Location: Baltimore
-Date of the Event: 2019-09-08T19:30:00
-Description of Event: 
-*****************************
-**********EVENT INFO*********
-16
-16
-Name of the Venue: Piedmont Park/Park Tavern
-Venue Location: Atlanta
-Date of the Event: 2019-09-14T12:00:00
-Description of Event: 
-*****************************
-**********EVENT INFO*********
-17
-17
-Name of the Venue: City of Rock
-Venue Location: Rio De Janeiro
-Date of the Event: 2019-09-27T19:00:00
-Description of Event: A true festival giant
-*****************************
-**********EVENT INFO*********
-18
-18
-Name of the Venue: Zilker Metropolitan Park
-Venue Location: Austin
-Date of the Event: 2019-10-06T12:00:00
-Description of Event: 
-*****************************
-**********EVENT INFO*********
-19
-19
-Name of the Venue: El Paso County Coliseum
-Venue Location: El Paso
-Date of the Event: 2019-10-08T19:00:00
-Description of Event: 
-*****************************
-**********EVENT INFO*********
-**********EVENT INFO*********
-**********EVENT INFO*********
-**********EVENT INFO*********
-**********EVENT INFO*********
-**********EVENT INFO*********
-0**********EVENT INFO*********
-0**********EVENT INFO*********
-0**********EVENT INFO*********
-0**********EVENT INFO*********
-0**********EVENT INFO*********
-0
-0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
-*****************************
-**********EVENT INFO*********
-0
-0
-Name of the Venue: Mercedes-Benz Superdome
-Venue Location: New Orleans
-Date of the Event: 2019-07-14T19:30:00
-Description of Event: American Express has set a two-order limit for this offer. This limit applies across all Cards associated with all of your American Express accounts There is a strict overall 8 ticket limit (4 for presales) per person, address, credit card, IP, household etc. as well as other specific limits. Violation of any ticket limits or attempts to counter the limit measures could result in cancellation of all orders at the discretion of the venue/promoter. No Refunds / No Exchanges / No Alternate Pick Ups allowed
-*****************************
-**********EVENT INFO*********
-1
-1
-Name of the Venue: TIAA Bank Field
-Venue Location: Jacksonville
-Date of the Event: 2019-07-19T19:30:00
-Description of Event: This event has been rescheduled - new date is 7/19/19. Tickets may be used on the new date (once confirmed). Refunds at point of purchase only.
-*****************************
-**********EVENT INFO*********
-2
-2
 Name of the Venue: Lincoln Financial Field
 Venue Location: Philadelphia
 Date of the Event: 2019-07-23T20:00:00
 Description of Event: 
 *****************************
 **********EVENT INFO*********
-3
-3
+1
+1
 Name of the Venue: NRG Park
 Venue Location: Houston
 Date of the Event: 2019-07-27T19:30:00
 Description of Event: The NRG Park Clear Bag Policy will be in effect for this show. For more information go to www.nrgpark.com/clear-bag-policy. Children 2 and older require a ticket. Under 2 are free on the lap.
 *****************************
 **********EVENT INFO*********
-4
-4
+2
+2
 Name of the Venue: MetLife Stadium
 Venue Location: East Rutherford
 Date of the Event: 2019-08-01T19:30:00
 Description of Event: 
 *****************************
 **********EVENT INFO*********
-5
-5
+3
+3
 Name of the Venue: MetLife Stadium
 Venue Location: East Rutherford
 Date of the Event: 2019-08-05T19:30:00
 Description of Event: 
 *****************************
 **********EVENT INFO*********
-6
-6
+4
+4
 Name of the Venue: Broncos Stadium at Mile High
 Venue Location: Denver
 Date of the Event: 2019-08-10T07:30:00
 Description of Event: 
 *****************************
 **********EVENT INFO*********
-7
-7
+5
+5
 Name of the Venue: CenturyLink Field
 Venue Location: Seattle
 Date of the Event: 2019-08-14T19:30:00
 Description of Event: This event has been rescheduled, new date/time August 14,2019 7:30 PM PST. Your tickets for the original date will remain valid for the new date. Refunds at point of purchase only. BAG POLICY: Fans may carry only the following style and size bag, package, or container into CenturyLink Field or when approaching queue lines of fans awaiting entry: Clear plastic/vinyl/PVC and do not exceed 12 in x 6 in x 12 in. One-gallon clear plastic freezer bag. Small clutch bags no bigger than 4.5 in x 6.5 in may be carried in along with a clear bag. An exception will be made for medically necessary items after proper inspection at VIP, Club, and Suite gates.
 *****************************
 **********EVENT INFO*********
-8
-8
+6
+6
 Name of the Venue: Levi's Stadium
 Venue Location: Santa Clara
 Date of the Event: 2019-08-18T19:30:00
 Description of Event: 
 *****************************
 **********EVENT INFO*********
-9
-9
+7
+7
 Name of the Venue: Rose Bowl Stadium
 Venue Location: Pasadena
 Date of the Event: 2019-08-22T19:30:00
 Description of Event: American Express has set a two-order limit for this offer. This limit applies across all Cards associated with all of your American Express accounts.
 *****************************
 **********EVENT INFO*********
-10
-10
+8
+8
 Name of the Venue: State Farm Stadium
 Venue Location: Glendale
 Date of the Event: 2019-08-26T20:00:00
 Description of Event: Please Register in "My Account" before the onsale for faster checkout! Everyone needs a ticket.
 *****************************
 **********EVENT INFO*********
-11
-11
+9
+9
 Name of the Venue: Hard Rock Stadium
 Venue Location: Miami Gardens
 Date of the Event: 2019-08-31T20:00:00
@@ -771,8 +81,6 @@ Description of Event: This event has been postponed - new date/time Saturday Aug
 *****************************
 **********EVENT INFO*********
 0
-**********EVENT INFO*********
-0
 0
 Name of the Venue: Soundwell SLC
 Venue Location: Salt Lake City
@@ -782,11 +90,1400 @@ Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
 **********EVENT INFO*********
 0
 0
-Name of the Venue: Soundwell SLC
-Venue Location: Salt Lake City
-Date of the Event: 2019-07-23T21:00:00
-Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+Name of the Venue: Cheyenne Frontier Days - Frontier Park
+Venue Location: Cheyenne
+Date of the Event: 2019-07-25T20:00:00
+Description of Event: 
 *****************************
+**********EVENT INFO*********
+1
+1
+Name of the Venue: Festival MEO Sudoeste
+Venue Location: Odemira
+Date of the Event: 2019-08-08T19:00:22
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+2
+2
+Name of the Venue: SZIGET FESTIVAL
+Venue Location: Budapest
+Date of the Event: 2019-08-11T12:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+3
+3
+Name of the Venue: Pukkelpop Festival
+Venue Location: Hasselt
+Date of the Event: 2019-08-16T12:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+4
+4
+Name of the Venue: Krakow Live Fest
+Venue Location: Krakow
+Date of the Event: 2019-08-17T16:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+5
+5
+Name of the Venue: Summer In The City
+Venue Location: Dublin
+Date of the Event: 2019-08-22T12:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+6
+6
+Name of the Venue: Reading Festival
+Venue Location: Reading
+Date of the Event: 2019-08-24T08:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+7
+7
+Name of the Venue: Leeds Festival
+Venue Location: Leeds
+Date of the Event: 2019-08-25T08:00:00
+Description of Event: Reading Festival 2019
+*****************************
+**********EVENT INFO*********
+8
+8
+Name of the Venue: Tacoma Dome
+Venue Location: Tacoma
+Date of the Event: 2019-09-14T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+9
+9
+Name of the Venue: Runaway Tour
+Venue Location: Vancouver
+Date of the Event: 2019-09-16T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+10
+10
+Name of the Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+Venue Location: Portland
+Date of the Event: 2019-09-17T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+11
+11
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2019-09-19T20:00:00
+Description of Event: All floor seats for concerts and family shows come with club access.
+*****************************
+**********EVENT INFO*********
+12
+12
+Name of the Venue: Save Mart Center
+Venue Location: Fresno
+Date of the Event: 2019-09-21T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+13
+13
+Name of the Venue: Life Is Beautiful
+Venue Location: Las Vegas
+Date of the Event: 2019-09-22T19:00:00
+Description of Event: Life Is Beautiful - https://lifeisbeautiful.com
+*****************************
+**********EVENT INFO*********
+14
+14
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-09-26T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+15
+15
+Name of the Venue: Little Caesars Arena
+Venue Location: Detroit
+Date of the Event: 2019-09-29T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+16
+16
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-10-03T19:00:00
+Description of Event: American Express has set a two-order limit for this tour presale. This limit applies across all Cards associated with all of your American Express accounts. Prepaid cards are not eligible for this presale.
+*****************************
+**********EVENT INFO*********
+17
+17
+Name of the Venue: Runaway Tour
+Venue Location: Toronto
+Date of the Event: 2019-10-04T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+18
+18
+Name of the Venue: KeyBank Center
+Venue Location: Buffalo
+Date of the Event: 2019-10-06T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+19
+19
+Name of the Venue: Runaway Tour
+Venue Location: Boston
+Date of the Event: 2019-10-08T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+20
+20
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-10-09T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+21
+21
+Name of the Venue: Boardwalk Hall
+Venue Location: Atlantic City
+Date of the Event: 2019-10-11T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+22
+22
+Name of the Venue: Capital One Arena
+Venue Location: Washington
+Date of the Event: 2019-10-12T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+23
+23
+Name of the Venue: Hulu Theater at Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-10-14T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+24
+24
+Name of the Venue: Runaway Tour
+Venue Location: New York
+Date of the Event: 2019-10-15T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+25
+25
+Name of the Venue: PNC Arena
+Venue Location: Raleigh
+Date of the Event: 2019-10-17T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+26
+26
+Name of the Venue: State Farm Arena
+Venue Location: Atlanta
+Date of the Event: 2019-10-18T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+27
+27
+Name of the Venue: AmericanAirlines Arena
+Venue Location: Miami
+Date of the Event: 2019-10-20T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+28
+28
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: 2019-10-24T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+29
+29
+Name of the Venue: Runaway Tour
+Venue Location: Jacksonville
+Date of the Event: 2019-10-25T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+30
+30
+Name of the Venue: Voodoo Music + Arts Experience
+Venue Location: New Orleans
+Date of the Event: 2019-10-27T19:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+31
+31
+Name of the Venue: AT&T Center
+Venue Location: San Antonio
+Date of the Event: 2019-10-29T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+32
+32
+Name of the Venue: Toyota Center
+Venue Location: Houston
+Date of the Event: 2019-11-05T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+33
+33
+Name of the Venue: Gila River Arena
+Venue Location: Glendale
+Date of the Event: 2019-11-08T20:00:00
+Description of Event: All patrons must have a ticket. No exceptions.
+*****************************
+**********EVENT INFO*********
+34
+34
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-11-10T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+35
+35
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2019-11-11T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+36
+36
+Name of the Venue: Oracle Arena
+Venue Location: Oakland
+Date of the Event: 2019-11-14T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+37
+37
+Name of the Venue: Honda Center
+Venue Location: Anaheim
+Date of the Event: 2019-11-16T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+38
+38
+Name of the Venue: Runaway Tour
+Venue Location: Anaheim
+Date of the Event: 2019-11-17T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+39
+39
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-20T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+40
+40
+Name of the Venue: Runaway Tour
+Venue Location: Los Angeles
+Date of the Event: 2019-11-21T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Cheyenne Frontier Days - Frontier Park
+Venue Location: Cheyenne
+Date of the Event: 2019-07-25T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+1
+1
+Name of the Venue: Festival MEO Sudoeste
+Venue Location: Odemira
+Date of the Event: 2019-08-08T19:00:22
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+2
+2
+Name of the Venue: SZIGET FESTIVAL
+Venue Location: Budapest
+Date of the Event: 2019-08-11T12:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+3
+3
+Name of the Venue: Pukkelpop Festival
+Venue Location: Hasselt
+Date of the Event: 2019-08-16T12:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+4
+4
+Name of the Venue: Krakow Live Fest
+Venue Location: Krakow
+Date of the Event: 2019-08-17T16:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+5
+5
+Name of the Venue: Summer In The City
+Venue Location: Dublin
+Date of the Event: 2019-08-22T12:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+6
+6
+Name of the Venue: Reading Festival
+Venue Location: Reading
+Date of the Event: 2019-08-24T08:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+7
+7
+Name of the Venue: Leeds Festival
+Venue Location: Leeds
+Date of the Event: 2019-08-25T08:00:00
+Description of Event: Reading Festival 2019
+*****************************
+**********EVENT INFO*********
+8
+8
+Name of the Venue: Tacoma Dome
+Venue Location: Tacoma
+Date of the Event: 2019-09-14T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+9
+9
+Name of the Venue: Runaway Tour
+Venue Location: Vancouver
+Date of the Event: 2019-09-16T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+10
+10
+Name of the Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+Venue Location: Portland
+Date of the Event: 2019-09-17T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+11
+11
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2019-09-19T20:00:00
+Description of Event: All floor seats for concerts and family shows come with club access.
+*****************************
+**********EVENT INFO*********
+12
+12
+Name of the Venue: Save Mart Center
+Venue Location: Fresno
+Date of the Event: 2019-09-21T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+13
+13
+Name of the Venue: Life Is Beautiful
+Venue Location: Las Vegas
+Date of the Event: 2019-09-22T19:00:00
+Description of Event: Life Is Beautiful - https://lifeisbeautiful.com
+*****************************
+**********EVENT INFO*********
+14
+14
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-09-26T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+15
+15
+Name of the Venue: Little Caesars Arena
+Venue Location: Detroit
+Date of the Event: 2019-09-29T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+16
+16
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-10-03T19:00:00
+Description of Event: American Express has set a two-order limit for this tour presale. This limit applies across all Cards associated with all of your American Express accounts. Prepaid cards are not eligible for this presale.
+*****************************
+**********EVENT INFO*********
+17
+17
+Name of the Venue: Runaway Tour
+Venue Location: Toronto
+Date of the Event: 2019-10-04T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+18
+18
+Name of the Venue: KeyBank Center
+Venue Location: Buffalo
+Date of the Event: 2019-10-06T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+19
+19
+Name of the Venue: Runaway Tour
+Venue Location: Boston
+Date of the Event: 2019-10-08T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+20
+20
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-10-09T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+21
+21
+Name of the Venue: Boardwalk Hall
+Venue Location: Atlantic City
+Date of the Event: 2019-10-11T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+22
+22
+Name of the Venue: Capital One Arena
+Venue Location: Washington
+Date of the Event: 2019-10-12T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+23
+23
+Name of the Venue: Hulu Theater at Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-10-14T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+24
+24
+Name of the Venue: Runaway Tour
+Venue Location: New York
+Date of the Event: 2019-10-15T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+25
+25
+Name of the Venue: PNC Arena
+Venue Location: Raleigh
+Date of the Event: 2019-10-17T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+26
+26
+Name of the Venue: State Farm Arena
+Venue Location: Atlanta
+Date of the Event: 2019-10-18T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+27
+27
+Name of the Venue: AmericanAirlines Arena
+Venue Location: Miami
+Date of the Event: 2019-10-20T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+28
+28
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: 2019-10-24T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+29
+29
+Name of the Venue: Runaway Tour
+Venue Location: Jacksonville
+Date of the Event: 2019-10-25T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+30
+30
+Name of the Venue: Voodoo Music + Arts Experience
+Venue Location: New Orleans
+Date of the Event: 2019-10-27T19:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+31
+31
+Name of the Venue: AT&T Center
+Venue Location: San Antonio
+Date of the Event: 2019-10-29T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+32
+32
+Name of the Venue: Toyota Center
+Venue Location: Houston
+Date of the Event: 2019-11-05T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+33
+33
+Name of the Venue: Gila River Arena
+Venue Location: Glendale
+Date of the Event: 2019-11-08T20:00:00
+Description of Event: All patrons must have a ticket. No exceptions.
+*****************************
+**********EVENT INFO*********
+34
+34
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-11-10T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+35
+35
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2019-11-11T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+36
+36
+Name of the Venue: Oracle Arena
+Venue Location: Oakland
+Date of the Event: 2019-11-14T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+37
+37
+Name of the Venue: Honda Center
+Venue Location: Anaheim
+Date of the Event: 2019-11-16T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+38
+38
+Name of the Venue: Runaway Tour
+Venue Location: Anaheim
+Date of the Event: 2019-11-17T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+39
+39
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-20T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+40
+40
+Name of the Venue: Runaway Tour
+Venue Location: Los Angeles
+Date of the Event: 2019-11-21T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Cheyenne Frontier Days - Frontier Park
+Venue Location: Cheyenne
+Date of the Event: 2019-07-25T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+1
+1
+Name of the Venue: Festival MEO Sudoeste
+Venue Location: Odemira
+Date of the Event: 2019-08-08T19:00:22
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+2
+2
+Name of the Venue: SZIGET FESTIVAL
+Venue Location: Budapest
+Date of the Event: 2019-08-11T12:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+3
+3
+Name of the Venue: Pukkelpop Festival
+Venue Location: Hasselt
+Date of the Event: 2019-08-16T12:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+4
+4
+Name of the Venue: Krakow Live Fest
+Venue Location: Krakow
+Date of the Event: 2019-08-17T16:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+5
+5
+Name of the Venue: Summer In The City
+Venue Location: Dublin
+Date of the Event: 2019-08-22T12:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+6
+6
+Name of the Venue: Reading Festival
+Venue Location: Reading
+Date of the Event: 2019-08-24T08:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+7
+7
+Name of the Venue: Leeds Festival
+Venue Location: Leeds
+Date of the Event: 2019-08-25T08:00:00
+Description of Event: Reading Festival 2019
+*****************************
+**********EVENT INFO*********
+8
+8
+Name of the Venue: Tacoma Dome
+Venue Location: Tacoma
+Date of the Event: 2019-09-14T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+9
+9
+Name of the Venue: Runaway Tour
+Venue Location: Vancouver
+Date of the Event: 2019-09-16T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+10
+10
+Name of the Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+Venue Location: Portland
+Date of the Event: 2019-09-17T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+11
+11
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2019-09-19T20:00:00
+Description of Event: All floor seats for concerts and family shows come with club access.
+*****************************
+**********EVENT INFO*********
+12
+12
+Name of the Venue: Save Mart Center
+Venue Location: Fresno
+Date of the Event: 2019-09-21T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+13
+13
+Name of the Venue: Life Is Beautiful
+Venue Location: Las Vegas
+Date of the Event: 2019-09-22T19:00:00
+Description of Event: Life Is Beautiful - https://lifeisbeautiful.com
+*****************************
+**********EVENT INFO*********
+14
+14
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-09-26T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+15
+15
+Name of the Venue: Little Caesars Arena
+Venue Location: Detroit
+Date of the Event: 2019-09-29T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+16
+16
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-10-03T19:00:00
+Description of Event: American Express has set a two-order limit for this tour presale. This limit applies across all Cards associated with all of your American Express accounts. Prepaid cards are not eligible for this presale.
+*****************************
+**********EVENT INFO*********
+17
+17
+Name of the Venue: Runaway Tour
+Venue Location: Toronto
+Date of the Event: 2019-10-04T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+18
+18
+Name of the Venue: KeyBank Center
+Venue Location: Buffalo
+Date of the Event: 2019-10-06T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+19
+19
+Name of the Venue: Runaway Tour
+Venue Location: Boston
+Date of the Event: 2019-10-08T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+20
+20
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-10-09T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+21
+21
+Name of the Venue: Boardwalk Hall
+Venue Location: Atlantic City
+Date of the Event: 2019-10-11T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+22
+22
+Name of the Venue: Capital One Arena
+Venue Location: Washington
+Date of the Event: 2019-10-12T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+23
+23
+Name of the Venue: Hulu Theater at Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-10-14T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+24
+24
+Name of the Venue: Runaway Tour
+Venue Location: New York
+Date of the Event: 2019-10-15T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+25
+25
+Name of the Venue: PNC Arena
+Venue Location: Raleigh
+Date of the Event: 2019-10-17T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+26
+26
+Name of the Venue: State Farm Arena
+Venue Location: Atlanta
+Date of the Event: 2019-10-18T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+27
+27
+Name of the Venue: AmericanAirlines Arena
+Venue Location: Miami
+Date of the Event: 2019-10-20T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+28
+28
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: 2019-10-24T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+29
+29
+Name of the Venue: Runaway Tour
+Venue Location: Jacksonville
+Date of the Event: 2019-10-25T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+30
+30
+Name of the Venue: Voodoo Music + Arts Experience
+Venue Location: New Orleans
+Date of the Event: 2019-10-27T19:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+31
+31
+Name of the Venue: AT&T Center
+Venue Location: San Antonio
+Date of the Event: 2019-10-29T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+32
+32
+Name of the Venue: Toyota Center
+Venue Location: Houston
+Date of the Event: 2019-11-05T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+33
+33
+Name of the Venue: Gila River Arena
+Venue Location: Glendale
+Date of the Event: 2019-11-08T20:00:00
+Description of Event: All patrons must have a ticket. No exceptions.
+*****************************
+**********EVENT INFO*********
+34
+34
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-11-10T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+35
+35
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2019-11-11T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+36
+36
+Name of the Venue: Oracle Arena
+Venue Location: Oakland
+Date of the Event: 2019-11-14T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+37
+37
+Name of the Venue: Honda Center
+Venue Location: Anaheim
+Date of the Event: 2019-11-16T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+38
+38
+Name of the Venue: Runaway Tour
+Venue Location: Anaheim
+Date of the Event: 2019-11-17T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+39
+39
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-20T20:00:00
+Description of Event: 
+*****************************
+**********EVENT INFO*********
+40
+40
+Name of the Venue: Runaway Tour
+Venue Location: Los Angeles
+Date of the Event: 2019-11-21T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+0
+0
+Name of the Venue: Cheyenne Frontier Days - Frontier Park
+Venue Location: Cheyenne
+Date of the Event: 2019-07-25T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+1
+1
+Name of the Venue: Festival MEO Sudoeste
+Venue Location: Odemira
+Date of the Event: 2019-08-08T19:00:22
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+2
+2
+Name of the Venue: SZIGET FESTIVAL
+Venue Location: Budapest
+Date of the Event: 2019-08-11T12:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+3
+3
+Name of the Venue: Pukkelpop Festival
+Venue Location: Hasselt
+Date of the Event: 2019-08-16T12:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+4
+4
+Name of the Venue: Krakow Live Fest
+Venue Location: Krakow
+Date of the Event: 2019-08-17T16:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+5
+5
+Name of the Venue: Summer In The City
+Venue Location: Dublin
+Date of the Event: 2019-08-22T12:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+6
+6
+Name of the Venue: Reading Festival
+Venue Location: Reading
+Date of the Event: 2019-08-24T08:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+7
+7
+Name of the Venue: Leeds Festival
+Venue Location: Leeds
+Date of the Event: 2019-08-25T08:00:00
+Description of Event: Reading Festival 2019
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+8
+8
+Name of the Venue: Tacoma Dome
+Venue Location: Tacoma
+Date of the Event: 2019-09-14T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+9
+9
+Name of the Venue: Runaway Tour
+Venue Location: Vancouver
+Date of the Event: 2019-09-16T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+10
+10
+Name of the Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+Venue Location: Portland
+Date of the Event: 2019-09-17T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+11
+11
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2019-09-19T20:00:00
+Description of Event: All floor seats for concerts and family shows come with club access.
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+12
+12
+Name of the Venue: Save Mart Center
+Venue Location: Fresno
+Date of the Event: 2019-09-21T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+13
+13
+Name of the Venue: Life Is Beautiful
+Venue Location: Las Vegas
+Date of the Event: 2019-09-22T19:00:00
+Description of Event: Life Is Beautiful - https://lifeisbeautiful.com
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+14
+14
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-09-26T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+15
+15
+Name of the Venue: Little Caesars Arena
+Venue Location: Detroit
+Date of the Event: 2019-09-29T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+16
+16
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-10-03T19:00:00
+Description of Event: American Express has set a two-order limit for this tour presale. This limit applies across all Cards associated with all of your American Express accounts. Prepaid cards are not eligible for this presale.
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+17
+17
+Name of the Venue: Runaway Tour
+Venue Location: Toronto
+Date of the Event: 2019-10-04T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+18
+18
+Name of the Venue: KeyBank Center
+Venue Location: Buffalo
+Date of the Event: 2019-10-06T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+19
+19
+Name of the Venue: Runaway Tour
+Venue Location: Boston
+Date of the Event: 2019-10-08T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+20
+20
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-10-09T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+21
+21
+Name of the Venue: Boardwalk Hall
+Venue Location: Atlantic City
+Date of the Event: 2019-10-11T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+22
+22
+Name of the Venue: Capital One Arena
+Venue Location: Washington
+Date of the Event: 2019-10-12T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+23
+23
+Name of the Venue: Hulu Theater at Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-10-14T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+24
+24
+Name of the Venue: Runaway Tour
+Venue Location: New York
+Date of the Event: 2019-10-15T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+25
+25
+Name of the Venue: PNC Arena
+Venue Location: Raleigh
+Date of the Event: 2019-10-17T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+26
+26
+Name of the Venue: State Farm Arena
+Venue Location: Atlanta
+Date of the Event: 2019-10-18T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+27
+27
+Name of the Venue: AmericanAirlines Arena
+Venue Location: Miami
+Date of the Event: 2019-10-20T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+28
+28
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: 2019-10-24T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+29
+29
+Name of the Venue: Runaway Tour
+Venue Location: Jacksonville
+Date of the Event: 2019-10-25T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+30
+30
+Name of the Venue: Voodoo Music + Arts Experience
+Venue Location: New Orleans
+Date of the Event: 2019-10-27T19:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+31
+31
+Name of the Venue: AT&T Center
+Venue Location: San Antonio
+Date of the Event: 2019-10-29T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+32
+32
+Name of the Venue: Toyota Center
+Venue Location: Houston
+Date of the Event: 2019-11-05T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+33
+33
+Name of the Venue: Gila River Arena
+Venue Location: Glendale
+Date of the Event: 2019-11-08T20:00:00
+Description of Event: All patrons must have a ticket. No exceptions.
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+34
+34
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-11-10T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+35
+35
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2019-11-11T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+36
+36
+Name of the Venue: Oracle Arena
+Venue Location: Oakland
+Date of the Event: 2019-11-14T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+37
+37
+Name of the Venue: Honda Center
+Venue Location: Anaheim
+Date of the Event: 2019-11-16T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+38
+38
+Name of the Venue: Runaway Tour
+Venue Location: Anaheim
+Date of the Event: 2019-11-17T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+39
+39
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-20T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+**********EVENT INFO*********
+40
+40
+Name of the Venue: Runaway Tour
+Venue Location: Los Angeles
+Date of the Event: 2019-11-21T20:00:00
+Description of Event: 
+*****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+-----------------------------------------------------------------------------
 **********EVENT INFO*********
 0
 0
@@ -795,6 +1492,9 @@ Venue Location: Salt Lake City
 Date of the Event: 2019-07-23T21:00:00
 Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
 *****************************
+---------------------------------------------------------------------------
+NaN Will be performing on the following dates and venues: 
+-----------------------------------------------------------------------------
 **********EVENT INFO*********
 0
 0
@@ -803,6 +1503,9 @@ Venue Location: Salt Lake City
 Date of the Event: 2019-07-23T21:00:00
 Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
 *****************************
+---------------------------------------------------------------------------
+The ArtistTwuan Will be performing on the following dates and venues: 
+-----------------------------------------------------------------------------
 **********EVENT INFO*********
 0
 0
@@ -811,6 +1514,9 @@ Venue Location: Salt Lake City
 Date of the Event: 2019-07-23T21:00:00
 Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
 *****************************
+---------------------------------------------------------------------------
+The Artist Twuan Will be performing on the following dates and venues: 
+-----------------------------------------------------------------------------
 **********EVENT INFO*********
 0
 0
@@ -819,17 +1525,19 @@ Venue Location: Salt Lake City
 Date of the Event: 2019-07-23T21:00:00
 Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
 *****************************
+---------------------------------------------------------------------------
+The Artist Twuan Will be performing on the following dates and venues: 
+-----------------------------------------------------------------------------
 **********EVENT INFO*********
-0
-0
 Name of the Venue: Soundwell SLC
 Venue Location: Salt Lake City
 Date of the Event: 2019-07-23T21:00:00
 Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
 *****************************
+---------------------------------------------------------------------------
+The Artist Twuan Will be performing on the following dates and venues: 
+-----------------------------------------------------------------------------
 **********EVENT INFO*********
-0
-0
 Name of the Venue: Soundwell SLC
 Venue Location: Salt Lake City
 Date of the Event: 2019-07-23T21:00:00

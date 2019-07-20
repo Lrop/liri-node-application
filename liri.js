@@ -1,6 +1,6 @@
 require("dotenv").config();
 
-
+// -------------------------------------
 
 var keys = require("./keys.js");
 var Spotify = require('node-spotify-api');
@@ -17,7 +17,7 @@ var appSearch = process.argv[3];
 
 
 UserInputs (appInput, appSearch);
-
+// -----------------------------------------
 
 function UserInputs(appInput, appSearch) {
     switch (appInput) {
@@ -46,7 +46,7 @@ function UserInputs(appInput, appSearch) {
 
     }
 
-   
+//----------------------------------------------------------------------------------------------------------------------------------------------------
     function getConcertInfo(appSearch){
         var queryUrl = "https://rest.bandsintown.com/artists/" + appSearch + "/events?app_id=codingbootcamp";
         console.log(queryUrl)
@@ -55,15 +55,14 @@ function UserInputs(appInput, appSearch) {
         if (appSearch === appSearch) {
             var concerts = JSON.parse(offers, body);
             for (var i = 0; i < concerts.length; i++) {  
+                console.log("-----------------------------------------------------------------------------");
+                fs.appendFileSync("random.txt", "---------------------------------------------------------------------------\n");
+                console.log("    The Artist " + appSearch + " Will be performing on the following dates and venues:");
+                fs.appendFileSync("random.txt", "The Artist " + appSearch + " Will be performing on the following dates and venues: \n");
                 console.log("-----------------------------------------------------------------------------")
-                console.log("    The Artist " + appSearch + " Will be performing on the following dates and venues:")
-                console.log("-----------------------------------------------------------------------------")
+                fs.appendFileSync("random.txt", "-----------------------------------------------------------------------------\n");
                 console.log("                ***--------EVENT INFO--------***");  
                 fs.appendFileSync("random.txt", "**********EVENT INFO*********\n");
-                console.log(i);
-                fs.appendFileSync("random.txt", i+"\n");
-                 console.log("              | Ticket Status: " + concerts[i].offers.type + " |");
-                fs.appendFileSync("random.txt", i+"\n");
                 console.log("              | Name of the Venue: " + concerts[i].venue.name + " |");
                 fs.appendFileSync("random.txt",      "Name of the Venue: " + concerts[i].venue.name+"\n");
                 console.log("              | Venue Location: " +  concerts[i].venue.city + " |");
@@ -82,17 +81,13 @@ function UserInputs(appInput, appSearch) {
     });
     
     }
-
+//------------------------------------------------------------------------------------------------------------------------
 
     var getOMBD = function(getmovie) {
         if(getmovie === undefined){
             getmovie = "Mr. Nobody";
         }
-
     }
-
-// ------------------------------------------------------------------------------------------------
-
 
     function getOMBD(response){
         var queryUrl1 = "http://www.omdbapi.com/?t=" + appSearch +  "&y=&plot=full&tomatoes=true&apikey=e333fe52"
@@ -119,14 +114,12 @@ function UserInputs(appInput, appSearch) {
   );
 };
 
+//-----------------------------------------------------------------------------------------------------------------------
 
 var getArtistNames = function(artist) {
     return artist.name;
   };
   
-
-
-
 function getSongSpotify(appSearch) {
     if (appSearch === undefined) {
       appSearch = "What's my age again";
@@ -148,15 +141,38 @@ function getSongSpotify(appSearch) {
   
         for (var i = 0; i < songs.length; i++) {
           console.log(i);
+          fs.appendFileSync(i)
           console.log("artist(s): " + songs[i].artists.map(getArtistNames));
+          fs.appendFileSync()
           console.log("song name: " + songs[i].name);
+          fs.appendFileSync()
           console.log("preview song: " + songs[i].preview_url);
+          fs.appendFileSync()
           console.log("album: " + songs[i].album.name);
           console.log("-----------------------------------");
         }
       }
     );
   };
+
+
+//-------------------------------------------------------------------------------------
+
+  function doingSomething() {
+    fs.readFile("random.txt", "utf8", function(error, data) {
+      console.log(data);
+  
+      var dataArr = data.split(",");
+  
+      if (dataArr.length === 2) {
+        pick(dataArr[0], dataArr[1]);
+      } else if (dataArr.length === 1) {
+        pick(dataArr[0]);
+      }
+    });
+  };
+  
+  
   
 
 
