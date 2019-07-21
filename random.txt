@@ -1934,3 +1934,12 @@ Venue Location: Salt Lake City
 Date of the Event: 2019-07-23T21:00:00
 Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
 *****************************
+---------------------------------------------------------------------------
+The Artist Twuan Will be performing on the following dates and venues: 
+-----------------------------------------------------------------------------
+**********EVENT INFO*********
+Name of the Venue: Soundwell SLC
+Venue Location: Salt Lake City
+Date of the Event: 2019-07-23T21:00:00
+Description of Event: Live Nite Events Presents: Golden Vessel at Soundwell
+*****************************
