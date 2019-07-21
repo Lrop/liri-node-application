@@ -35,7 +35,7 @@ You'll use Axios to grab data from the OMDB API and the Bands In Town API.
 #### Example One:
 `node liri.js concert-this "name of artist or band"`
 
-![](C:\Users\Luke\Pictures\Screenshots\liri-1.png)
+![](liri-node-application/images/liri-1.PNG)
 
 #### Example Two:
 `node liri.js spotify-this-song "name of tune"`
