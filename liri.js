@@ -152,17 +152,29 @@ function UserInputs(appInput, appSearch) {
             console.log("-----------------------------------");
             fs.appendFileSync("-----------------------------------")
             console.log("  Title: " + jsonData.Title);
+            fs.appendFileSync("random.txt", "  Title: " + jsonData.Title )
             console.log("-----------------------------------");
+            fs.appendFileSync("-----------------------------------");
             console.log(" Year: " + jsonData.Year + '\n');
+            fs.appendFileSync("random.txt", + " Year: " + jsonData.Year + '\n');
             console.log(" Rated: " + jsonData.Rated + '\n');
+            fs.appendFileSync("random.txt", + " Rated: " + jsonData.Rated + '\n');
             console.log(" IMDB Rating: " + jsonData.imdbRating + '\n');
+            fs.appendFileSync("random.txt", + " IMDB Rating: " + jsonData.imdbRating + '\n');
             console.log(" Country: " + jsonData.Country+ '\n');
+            fs.appendFileSync("random.txt", + " Country: " + jsonData.Country+ '\n');
             console.log(" Language: " + jsonData.Language+ '\n');
+            fs.appendFileSync("random.txt", + " Language: " + jsonData.Language+ '\n');
             console.log(" Plot: " + jsonData.Plot);
+            fs.appendFileSync("random.txt", + " Plot: " + jsonData.Plot);
             console.log(" Actors: " + jsonData.Actors);
+            fs.appendFileSync("random.txt", + " Actors: " + jsonData.Actors);
             console.log("------------------------------------");
+            fs.appendFileSync("random.txt", + "------------------------------------");
             console.log("  Rotten Tomatoes Rating: " + jsonData.Ratings[1].Value);
+            fs.appendFileSync("random.txt", + "  Rotten Tomatoes Rating: " + jsonData.Ratings[1].Value);
             console.log("------------------------------------");
+            fs.appendFileSync("random.txt", + "------------------------------------");
     }
   );
 };
@@ -195,16 +207,19 @@ function getSongSpotify(songTitle) {
   
         for (var i = 0; i < songs.length; i++) {
           console.log(i);
-        //   fs.appendFileSync(i)
+         fs.appendFileSync("random.txt", + i);
           console.log("----------------------------------------------");
+          fs.appendFileSync("random.txt", + "----------------------------------------------");
           console.log("Artist(s): " + songs[i].artists.map(getArtistNames));
+          fs.appendFileSync("random.txt", + "Artist(s): " + songs[i].artists.map(getArtistNames));
           console.log("----------------------------------------------");
-        //   fs.appendFileSync()
+          fs.appendFileSync("random.txt", + "----------------------------------------------");
           console.log("Song name: " + songs[i].name + "\n");
-        //   fs.appendFileSync()
+          fs.appendFileSync("random.txt", + "Song name: " + songs[i].name + "\n" )
           console.log("Preview song: " + songs[i].preview_url + "\n");
-        //   fs.appendFileSync()
+          fs.appendFileSync("random.txt", "Preview song: " + songs[i].preview_url + "\n")
           console.log("Album: " + songs[i].album.name + "\n");
+          fs.appendFileSync("random.txt", "Album: " + songs[i].album.name + "\n")
           console.log("-----------------------------------");
         }
       }
@@ -219,6 +234,7 @@ function getSongSpotify(songTitle) {
   function doingSomething() {
     fs.readFile("random.txt", "utf8", function(error, data) {
       console.log(data);
+      fs.appendFileSync("random.txt", + data);
   
       var dataArr = data.split(",");
   
