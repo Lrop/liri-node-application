@@ -110,7 +110,8 @@ function UserInputs(appInput, appSearch) {
                 fs.appendFileSync("random.txt", "The Artist " + appSearch + " Will be performing on the following dates and venues: \n");
                 console.log("-----------------------------------------------------------------------------")
                 fs.appendFileSync("random.txt", "-----------------------------------------------------------------------------\n");
-                console.log("                ***--------EVENT INFO--------***");  
+                console.log("                ***--------EVENT INFO--------***"); 
+                console.log(i); 
                 fs.appendFileSync("random.txt", "**********EVENT INFO*********\n");
                 console.log("              | Name of the Venue: " + concerts.venue.name + " |");
                 fs.appendFileSync("random.txt",      "Name of the Venue: " + concerts.venue.name+"\n");
@@ -168,44 +169,49 @@ function UserInputs(appInput, appSearch) {
 
 //-----------------------------------------------------------------------------------------------------------------------
 
+
 var getArtistNames = function(artist) {
     return artist.name;
   };
   
-function getSongSpotify(appSearch) {
-    if (appSearch === undefined) {
-      appSearch = "What's my age again";
+function getSongSpotify(songTitle) {
+    if (songTitle === undefined) {
+      songTitle = "What's my age again";
     }
     
   
     spotify.search(
       {
         type: "track",
-        query: appSearch
+        query: songTitle
       },
       function(err, data) {
         if (err) {
           console.log("Error occurred: " + err);
           return;
         }
-  
+        
         var songs = data.tracks.items;
   
         for (var i = 0; i < songs.length; i++) {
           console.log(i);
-          fs.appendFileSync(i)
-          console.log("artist(s): " + songs[i].artists.map(getArtistNames));
-          fs.appendFileSync()
-          console.log("song name: " + songs[i].name);
-          fs.appendFileSync()
-          console.log("preview song: " + songs[i].preview_url);
-          fs.appendFileSync()
-          console.log("album: " + songs[i].album.name);
+        //   fs.appendFileSync(i)
+          console.log("----------------------------------------------");
+          console.log("Artist(s): " + songs[i].artists.map(getArtistNames));
+          console.log("----------------------------------------------");
+        //   fs.appendFileSync()
+          console.log("Song name: " + songs[i].name + "\n");
+        //   fs.appendFileSync()
+          console.log("Preview song: " + songs[i].preview_url + "\n");
+        //   fs.appendFileSync()
+          console.log("Album: " + songs[i].album.name + "\n");
           console.log("-----------------------------------");
         }
       }
     );
   };
+
+
 
 
 //-------------------------------------------------------------------------------------
