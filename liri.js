@@ -47,41 +47,7 @@ function UserInputs(appInput, appSearch) {
     }
 
 //----------------------------------------------------------------------------------------------------------------------------------------------------
-    // function getConcertInfo(appSearch){
-    //     var queryUrl = "https://rest.bandsintown.com/artists/" + appSearch + "/events?app_id=codingbootcamp";
-    //     console.log(queryUrl)
-    //     request(queryUrl, function(error, response, offers, body) {
-    //     // If the request is successful
-    //     if (appSearch === appSearch) {
-    //         var concerts = JSON.parse(offers, body);
-    //         for (var i = 0; i < concerts.length; i++) {  
-    //             console.log("-----------------------------------------------------------------------------");
-    //             fs.appendFileSync("random.txt", "---------------------------------------------------------------------------\n");
-    //             console.log("    The Artist " + appSearch + " Will be performing on the following dates and venues:");
-    //             fs.appendFileSync("random.txt", "The Artist " + appSearch + " Will be performing on the following dates and venues: \n");
-    //             console.log("-----------------------------------------------------------------------------")
-    //             fs.appendFileSync("random.txt", "-----------------------------------------------------------------------------\n");
-    //             console.log("                ***--------EVENT INFO--------***");  
-    //             fs.appendFileSync("random.txt", "**********EVENT INFO*********\n");
-    //             console.log("              | Name of the Venue: " + concerts[i].venue.name + " |");
-    //             fs.appendFileSync("random.txt",      "Name of the Venue: " + concerts[i].venue.name+"\n");
-    //             console.log("              | Venue Location: " +  concerts[i].venue.city + " |");
-    //             fs.appendFileSync("random.txt",      "Venue Location: " +  concerts[i].venue.city+"\n");
-    //             console.log("              | Date of the Event: " +  concerts[i].datetime + " |");
-    //             fs.appendFileSync("random.txt",      "Date of the Event: " +  concerts[i].datetime+"\n");
-    //             console.log("              | Description of the Event: " +  concerts[i].description + " |");
-    //             fs.appendFileSync("random.txt",      "Description of Event: " +  concerts[i].description+"\n");
-                
-    //             console.log("                                                                       ");
-    //             fs.appendFileSync("random.txt", "*****************************"+"\n");
-    //         }
-    //     } else{
-    //       console.log('Error occurred.');
-    //     }
-    // });
-    
-    // }
-
+  
 
     function getConcertInfo(appSearch){
         var queryUrl = "https://rest.bandsintown.com/artists/" + appSearch + "/events?app_id=codingbootcamp";
