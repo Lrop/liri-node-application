@@ -11,7 +11,7 @@ You'll find these Node packages crucial for your assignment.
 ## Technologies
 
 1. Javascript
-2. Nodejs
+2. Node.js
 3. Node packages:
 Node-Spotify-API,
  Request,
@@ -53,7 +53,7 @@ Displays information about the selected song name. It can result in multiple rec
 
 `node liri.js spotify-this-song "name of tune"`
 
-![](images/liri-2.PNG)
+![](images/liri-3.PNG)
 
 #### Example Three:
 
@@ -62,7 +62,7 @@ Displays information associated with the users desired movie. '
 
 `node liri.js movie-this "name of movie"`
 
-![](images/liri-3.PNG)
+![](images/liri-2.PNG)
 
 #### Example Four:
 
