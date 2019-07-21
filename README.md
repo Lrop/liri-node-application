@@ -8,14 +8,20 @@ To retrieve the data that will power this app, you'll need to send requests usin
 
 You'll find these Node packages crucial for your assignment.
 
-1. Node-Spotify-API
+## Technologies
 
-2. Axios
-
-3. Moment
-
-4. DotEnv
-
+1. Javascript
+2. Node.js
+3. Node packages:
+Node-Spotify-API,
+ Request,
+ Moment,
+ DotEnv
+4. APIs used:
+Bands in Town,
+ OMDB
+5. Git
+6. GitHub
 
 You'll use Axios to grab data from the OMDB API and the Bands In Town API.
 
@@ -35,21 +41,34 @@ You'll use Axios to grab data from the OMDB API and the Bands In Town API.
 #### Example One:
 `node liri.js concert-this "name of artist or band"`
 
+##### Output
+Displays a list of all current events and locations of where the artist or band will be performing.The application will also log all the results in the log.txt file. 
+
 ![](images/liri-1.PNG)
 
 #### Example Two:
+
+##### Output
+Displays information about the selected song name. It can result in multiple records dependent on how common place the song name is.The application will also log all the results in the log.txt file. 
+
 `node liri.js spotify-this-song "name of tune"`
-
-![](images/liri-2.PNG)
-
-#### Example Three:
-`node liri.js movie-this "name of movie"`
 
 ![](images/liri-3.PNG)
 
-#### Example Four:
-`node liri.js do-what-it-says`
+#### Example Three:
 
-![](images/liri-1.PNG)
+##### Output
+Displays information associated with the users desired movie. The application will also log all the results in the log.txt file. 
+
+`node liri.js movie-this "name of movie"`
+
+![](images/liri-2.PNG)
+
+#### Example Four:
+
+##### Output
+The application will read the text in the random.txt file.
+
+![](images/liri-4.PNG)
 
 
