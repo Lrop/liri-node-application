@@ -49,7 +49,7 @@ Displays a list of all current events and locations of where the artist or band 
 #### Example Two:
 
 ##### Output
-Displays information about the selected song name. It can result in multiple records dependent on how common place the song name is.
+Displays information about the selected song name. It can result in multiple records dependent on how common place the song name is.The application will also log all the results in the log.txt file. 
 
 `node liri.js spotify-this-song "name of tune"`
 
@@ -58,7 +58,7 @@ Displays information about the selected song name. It can result in multiple rec
 #### Example Three:
 
 ##### Output
-Displays information associated with the users desired movie. '
+Displays information associated with the users desired movie. The application will also log all the results in the log.txt file. 
 
 `node liri.js movie-this "name of movie"`
 
